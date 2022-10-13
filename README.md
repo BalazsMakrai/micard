@@ -1,6 +1,6 @@
-# DMiCard
+# MiCard
 ### The Complete 2021 Flutter Development Bootcamp with Dart
-A simple Flutter layout dem
+A simple Flutter layout demo
 
 ##### You can find the course here
 [![Udemy](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white)](https://www.udemy.com/course/flutter-bootcamp-with-dart/)
